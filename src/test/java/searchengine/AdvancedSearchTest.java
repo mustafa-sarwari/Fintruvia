@@ -33,7 +33,11 @@ class AdvancedSearchTest {
 
     @Test void prefixMatchesMultipleTerms() throws IOException {
         SearchEngine engine = fixture();
-        assertEquals(1, engine.searchPrefix("ind").size());
+        assertEquals(List.of("first.txt", "second.txt"),
+            engine.searchPrefix("ind").stream()
+                .map(SearchResult::getDocumentId)
+                .sorted()
+                .toList());
     }
 
     @Test void traversalIsRejected() throws IOException {
