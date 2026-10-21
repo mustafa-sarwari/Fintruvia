@@ -1,0 +1,5 @@
+Balanced binary search trees such as AVL and red black trees keep logarithmic tree height. Rotation restores balance after updates.
+Balanced binary search trees such as AVL and red black trees keep logarithmic tree height. Rotation restores balance after updates.
+Balanced binary search trees such as AVL and red black trees keep logarithmic tree height. Rotation restores balance after updates.
+Balanced binary search trees such as AVL and red black trees keep logarithmic tree height. Rotation restores balance after updates.
+Balanced binary search trees such as AVL and red black trees keep logarithmic tree height. Rotation restores balance after updates.

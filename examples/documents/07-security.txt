@@ -1,0 +1,5 @@
+Secure file access checks canonical paths and enforces directory boundaries. Symbolic links may escape document roots.
+Secure file access checks canonical paths and enforces directory boundaries. Symbolic links may escape document roots.
+Secure file access checks canonical paths and enforces directory boundaries. Symbolic links may escape document roots.
+Secure file access checks canonical paths and enforces directory boundaries. Symbolic links may escape document roots.
+Secure file access checks canonical paths and enforces directory boundaries. Symbolic links may escape document roots.

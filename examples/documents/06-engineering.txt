@@ -1,0 +1,5 @@
+Automated unit tests check correctness. Continuous integration runs Maven builds and test suites on pull requests.
+Automated unit tests check correctness. Continuous integration runs Maven builds and test suites on pull requests.
+Automated unit tests check correctness. Continuous integration runs Maven builds and test suites on pull requests.
+Automated unit tests check correctness. Continuous integration runs Maven builds and test suites on pull requests.
+Automated unit tests check correctness. Continuous integration runs Maven builds and test suites on pull requests.

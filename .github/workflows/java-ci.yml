@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -12,4 +12,4 @@ jobs:
           distribution: temurin
           java-version: '17'
           cache: maven
-      - run: mvn -B clean verify
+      - run: mvn --batch-mode verify

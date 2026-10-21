@@ -1,0 +1,5 @@
+Phrase matching checks adjacent tokens. Prefix search expands indexed vocabulary matches. Boolean OR broadens retrieval.
+Phrase matching checks adjacent tokens. Prefix search expands indexed vocabulary matches. Boolean OR broadens retrieval.
+Phrase matching checks adjacent tokens. Prefix search expands indexed vocabulary matches. Boolean OR broadens retrieval.
+Phrase matching checks adjacent tokens. Prefix search expands indexed vocabulary matches. Boolean OR broadens retrieval.
+Phrase matching checks adjacent tokens. Prefix search expands indexed vocabulary matches. Boolean OR broadens retrieval.

@@ -1,0 +1,5 @@
+An inverted index maps terms to document identifiers and posting frequencies. Information retrieval systems use tokenization and scoring.
+An inverted index maps terms to document identifiers and posting frequencies. Information retrieval systems use tokenization and scoring.
+An inverted index maps terms to document identifiers and posting frequencies. Information retrieval systems use tokenization and scoring.
+An inverted index maps terms to document identifiers and posting frequencies. Information retrieval systems use tokenization and scoring.
+An inverted index maps terms to document identifiers and posting frequencies. Information retrieval systems use tokenization and scoring.

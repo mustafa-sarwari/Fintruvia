@@ -1,0 +1,1 @@
+A fast c++ program is a good C++ program!

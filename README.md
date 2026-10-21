@@ -1,6 +1,6 @@
 # Java Document Search Engine
 
-[![Java CI](https://github.com/mustafa-sarwari/Java-Document-Search-Engine/actions/workflows/java-ci.yml/badge.svg)](https://github.com/mustafa-sarwari/Java-Document-Search-Engine/actions/workflows/java-ci.yml)
+[![Java CI](https://github.com/mustafa-sarwari/java-document-search-engine/actions/workflows/java-ci.yml/badge.svg)](https://github.com/mustafa-sarwari/java-document-search-engine/actions/workflows/java-ci.yml)
 
 A command-line **document search engine built in Java 17**, demonstrating hand-built data structures, inverted indexing, TF-IDF relevance ranking, Boolean retrieval, and benchmark-driven algorithm analysis.
 

@@ -1,0 +1,5 @@
+Hash tables offer expected constant time key lookup. Collision handling and resizing influence performance and memory usage.
+Hash tables offer expected constant time key lookup. Collision handling and resizing influence performance and memory usage.
+Hash tables offer expected constant time key lookup. Collision handling and resizing influence performance and memory usage.
+Hash tables offer expected constant time key lookup. Collision handling and resizing influence performance and memory usage.
+Hash tables offer expected constant time key lookup. Collision handling and resizing influence performance and memory usage.
